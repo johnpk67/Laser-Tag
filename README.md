@@ -1,5 +1,6 @@
 This project is a 3D, two-player first-person shooter (FPS) game made in Unity. I made this project to learn about networking in video game development.
-I used Mirror for networking, Blender + Probuilder for making prefabs, and Google Draw for making some panels.
+
+I used Mirror for networking, Blender + Probuilder for making prefabs, and Google Draw for making some panels. The character prefab + animations come from the Unity Asset Store.
 
 Since the project uses networking, it is a bit complicated to run the game without Unity. The easiest way to run the game on Mac / Windows is through the following steps
 
@@ -9,3 +10,5 @@ Since the project uses networking, it is a bit complicated to run the game witho
 4) Have another person download the game
 5) Have the other person type in the first player's IP address and click join
 6) Have one person select player 1 and the other select player 2, and you will be able to play
+
+Through this project, I learned about networking, creating an animator, implementing mouse tracking, and designing prefabs in Blender. In the future, I plan on fixing some bugs with the panels, cleaning the jumping animation, and adding a single-player game mode, 
